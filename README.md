@@ -1,3 +1,4 @@
+![Duygu Tanıma](https://i.imgur.com/qlLnaG0.jpg)
 # Facial Expression Recognition with Convolutional Neural Network
 
 ## Overview
